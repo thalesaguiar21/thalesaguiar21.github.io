@@ -10,12 +10,13 @@ hr {
 }
 
 .about {
+  display: block;
   width: 100%;
   max-width: 200px;
   height: 100%;
   border-radius: 50%;
   margin-left: auto;
-  margin-right: 0;
+  margin-right: auto;
 }
 
 .container {
