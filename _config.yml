@@ -7,8 +7,7 @@ about: I am Doctorate Student at the Federal University of Rio Grande do Norte
 image: https://i.imgur.com/keDw5XC.png 
 excerpt_separator: "<!-- more -->"
 markdown: kramdown
-gems:
-  - jekyll-paginate
+plugins: [jekyll-paginate]
 exclude:
   - .jekyll-metadata
   - README.md
