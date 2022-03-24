@@ -40,8 +40,9 @@ hr {
 }
 
 .container article {
-  border: 3px dashed #000;
-  border-style: none none dashed;
+  border: 2px dashed #000;
+  border-style: none none none dashed;
+  padding-left: 15px;
 }
 
 .row {
