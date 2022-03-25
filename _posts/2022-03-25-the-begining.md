@@ -10,7 +10,9 @@ This is the first log of my journey. Hopefully someone gives me sword to
 protect me in this dangerous path.
 
 ```python
-print("Hi")
+things_i_like = ['math', 'science', 'history']
+for thing in things:
+    print(thing)
 ```
 
 Testing inline equation $$\frac{3}{2}$$

@@ -8,9 +8,17 @@ about: I am Doctorate Student in Computer Science at the Federal University of
   Rio Grande do Norte. My topics of interest are mainly math, python, data
   science and machine learning; specially in problems related to voice and
   speech.
-image: imgs/profile-round-90.png
+image: assets/imgs/profile-round-90.png
 excerpt_separator: "<!-- more -->"
+
 markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
 plugins: [jekyll-paginate]
 exclude:
   - .jekyll-metadata
@@ -18,5 +26,4 @@ exclude:
   - CNAME
 paginate: 5
 paginate_path: "/:num/"
-highlighter: rouge
 permalink: pretty
