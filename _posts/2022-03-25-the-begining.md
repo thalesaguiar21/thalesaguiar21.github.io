@@ -14,6 +14,7 @@ things_i_like = ['math', 'science', 'history']
 for thing in things:
     print(thing)
 ```
+<!-- more -->
 
 Testing inline equation $$\frac{3}{2}$$
 
