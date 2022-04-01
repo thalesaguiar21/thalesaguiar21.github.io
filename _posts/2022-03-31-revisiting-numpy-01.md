@@ -1,5 +1,5 @@
 ---
-title: Revisiting NumPy
+title: Revisiting NumPy [1]
 tags:
 - review
 - learning
